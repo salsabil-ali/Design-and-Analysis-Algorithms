@@ -1,0 +1,13 @@
+# one row per line: H = heads, T = tails
+H
+T
+HH
+HTH
+HHH
+TTT
+THT
+HTHHT
+HTTHHH
+TTHTT
+HHTHHTH
+HTHTHTHTH

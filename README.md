@@ -30,7 +30,7 @@ This repository contains all the tasks implemented using their required algorith
 | **Task 5** | King Arthur's Round Table | Dynamic Programming | Pending |
 | **Task 6** | Killing Squares | Dynamic Programming | Pending |
 | **Task 7** | Poisoned Wine | Divide and Conquer | Pending |
-| **Task 8** | Colored Tromino Tiling | Divide and Conquer | Pending |
+| **Task 8** | Colored Tromino Tiling | Divide and Conquer | Completed |
 
 ---
 

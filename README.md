@@ -10,7 +10,7 @@
 ## 👥 Team Members & Student Information
 * **Salsabil Ali Mahmoud** — ID: 2300127 (Bylaw: UG2023)
 * **Omar Mohamed Mohey Eldin** _ ID: 2200093 (Bylaw: UG2018)
-
+* **Malak Ehab Mohammed** _ ID: 2300620 (Bylaw: UG2023)
 ---
 
 ## 🎥 Presentation & Demo Video
@@ -25,7 +25,7 @@ This repository contains all the tasks implemented using their required algorith
 | :--- | :--- | :--- | :--- |
 | **Task 1** | Coin Removal | Greedy | Completed |
 | **Task 2** | Domino Tiling | Brute Force | Completed |
-| **Task 3** | Security Switches | Decrease and Conquer | Pending |
+| **Task 3** | Security Switches | Decrease and Conquer | Completed |
 | **Task 4** | Point Coloring | Iterative Improvement | Pending |
 | **Task 5** | King Arthur's Round Table | Dynamic Programming | Pending |
 | **Task 6** | Killing Squares | Dynamic Programming | Pending |

@@ -1,4 +1,3 @@
-
 # CSE461: Design and Analysis of Algorithms - Project (2026/2027)
 
 **University:** Ain Shams University  
@@ -8,22 +7,17 @@
 ---
 
 ## 👥 Team Members & Student Information
-* **Salsabil Ali Mahmoud** — ID: 2300127 (Bylaw: UG2023)
-* **Omar Mohamed Mohey Eldin** _ ID: 2200093 (Bylaw: UG2018)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-* **Malak Ehab Mohammed** _ ID: 2300620 (Bylaw: UG2023)
->>>>>>> 522252be128a8769358745e15f82b09dfddff974
-* **Mina Faleh Aziz** — ID: 2301028 (Bylaw: UG2023)
-=======
-* **John Hany Hanna** _ ID: 2300282 (Bylaw: UG2023)
+- **Salsabil Ali Mahmoud** — ID: 2300127 (Bylaw: UG2023)
+- **Omar Mohamed Mohey Eldin** — ID: 2200093 (Bylaw: UG2018)
+- **Malak Ehab Mohammed** — ID: 2300620 (Bylaw: UG2023)
+- **Mina Faleh Aziz** — ID: 2301028 (Bylaw: UG2023)
+- **John Hany Hanna** — ID: 2300282 (Bylaw: UG2023)
+- **Youssef Amir Youssef** — ID: 2300489 (Bylaw: UG2023)
 
->>>>>>> task-4
 ---
 
 ## 🎥 Presentation & Demo Video
-* **Recorded Presentation & Demo Link:** [Insert YouTube / Google Drive Link Here] *(Maximum duration: 20 minutes)*
+- **Recorded Presentation & Demo Link:** [Insert YouTube / Google Drive Link Here] *(Maximum duration: 20 minutes)*
 
 ---
 
@@ -34,15 +28,15 @@ This repository contains all the tasks implemented using their required algorith
 | :--- | :--- | :--- | :--- |
 | **Task 1** | Coin Removal | Greedy | Completed |
 | **Task 2** | Domino Tiling | Brute Force | Completed |
-| **Task 3** | Security Switches | Decrease and Conquer | Pending |
-| **Task 4** | Point Coloring | Iterative Improvement | Pending |
+| **Task 3** | Security Switches | Decrease and Conquer | Completed |
+| **Task 4** | Point Coloring | Iterative Improvement | Completed |
 | **Task 5** | King Arthur's Round Table | Dynamic Programming | Pending |
 | **Task 6** | Killing Squares | Dynamic Programming | Pending |
 | **Task 7** | Poisoned Wine | Divide and Conquer | Completed |
-| **Task 8** | Colored Tromino Tiling | Divide and Conquer | Pending |
+| **Task 8** | Colored Tromino Tiling | Divide and Conquer | Completed |
 
 ---
 
 ## 🛠️ Repository Navigation
-* Explore each task inside its dedicated folder (e.g., `Task1 Coin Removal/`).
-* Each folder includes source code, test inputs, validation scripts, and a detailed explanation PDF.
+- Explore each task inside its dedicated folder (e.g., `Task1 Coin Removal/`).
+- Each folder includes source code, test inputs, validation scripts, and a detailed explanation PDF.

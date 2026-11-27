@@ -11,6 +11,10 @@
 * **Salsabil Ali Mahmoud** — ID: 2300127 (Bylaw: UG2023)
 * **Omar Mohamed Mohey Eldin** _ ID: 2200093 (Bylaw: UG2018)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+* **Malak Ehab Mohammed** _ ID: 2300620 (Bylaw: UG2023)
+>>>>>>> 522252be128a8769358745e15f82b09dfddff974
 * **Mina Faleh Aziz** — ID: 2301028 (Bylaw: UG2023)
 =======
 * **John Hany Hanna** _ ID: 2300282 (Bylaw: UG2023)

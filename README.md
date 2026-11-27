@@ -10,6 +10,7 @@
 ## 👥 Team Members & Student Information
 * **Salsabil Ali Mahmoud** — ID: 2300127 (Bylaw: UG2023)
 * **Omar Mohamed Mohey Eldin** _ ID: 2200093 (Bylaw: UG2018)
+* **Malak Ehab Mohammed** _ ID: 2300620 (Bylaw: UG2023)
 * **Mina Faleh Aziz** — ID: 2301028 (Bylaw: UG2023)
 ---
 

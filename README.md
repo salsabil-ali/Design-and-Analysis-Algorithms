@@ -10,6 +10,7 @@
 ## 👥 Team Members & Student Information
 * **Salsabil Ali Mahmoud** — ID: 2300127 (Bylaw: UG2023)
 * **Omar Mohamed Mohey Eldin** _ ID: 2200093 (Bylaw: UG2018)
+* **Nour Khaled Mohy** — ID: 2300949 (Bylaw: UG2023)
 
 ---
 
